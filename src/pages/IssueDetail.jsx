@@ -5,7 +5,7 @@ import IssueItem from ".././components/IssueItem";
 function IssueDetail() {
   //   const headers = {
   //     Accept: "application/vnd.github+json",
-  //     Authorization: "Bearer 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",
+  //     Authorization: "Bearer  ",
   //     "X-GitHub-Api-Version": "2022-11-28",
   //   };
 
