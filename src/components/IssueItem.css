@@ -1,0 +1,22 @@
+.issueItem {
+  border-bottom: 2px solid #000;
+  /* width: calc(100% - 10rem);  */
+  /* margin-top: 1rem; */
+}
+
+.issueName {
+  font-size: 1.5em;
+}
+
+.issueNumber {
+  margin-right: 0.3rem;
+}
+
+.issueComments {
+  float: right;
+  margin-top: 0.7rem;
+}
+
+.issueInfo {
+  margin-top: 0.3rem;
+}

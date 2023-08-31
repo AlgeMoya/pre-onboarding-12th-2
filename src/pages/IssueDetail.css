@@ -1,0 +1,6 @@
+.issueHeader {
+  display: grid;
+  grid-template-columns: auto 1fr; /* 첫 번째 열은 이미지 크기만큼, 두 번째 열은 남은 공간을 사용 */
+  align-items: center; /* 수직 가운데 정렬 */
+  column-gap: 1rem; /* 열 사이의 간격 설정 */
+}
